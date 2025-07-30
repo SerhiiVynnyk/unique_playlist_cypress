@@ -1,0 +1,21 @@
+{
+  "name": "uniqe_playlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "cypress": "^14.5.3",
+    "eslint": "^9.32.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-cypress": "^5.1.0",
+    "globals": "^16.3.0",
+    "prettier": "^3.6.2"
+  }
+}
